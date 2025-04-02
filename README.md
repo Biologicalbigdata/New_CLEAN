@@ -1,5 +1,5 @@
 # New_CLEAN
-##Procedure
+## Procedure
 
 **Note**:
 This source code was developed in Linux, and has been tested in Centos with Python 3.10.
@@ -14,7 +14,7 @@ This source code was developed in Linux, and has been tested in Centos with Pyth
 
 3. To use gpus properly, install the pytorch and cuda for your gpus. This code was tested on pytorch=2.4.0 using cuda version 12.4
    
-##Example
+## Example
 
 - Run New_CLEAN 
 
